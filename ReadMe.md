@@ -6,9 +6,14 @@ For getting usage to the current month to date:
     python python.py > usage.csv
     ```
 
-For getting selected month
+For getting selected month:
     ```
     python python.py -m <monthnumber> -y <yearnumber>
+    ```
+
+Example for Jan 2019s usage:
+    ```
+     python python.py -m 01 -y  2019
     ```
 
 ## Variables
