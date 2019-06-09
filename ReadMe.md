@@ -17,8 +17,11 @@ Example for Jan 2019s usage:
     ```
 
 ## Variables
-The can be found in the EA Portal 
+The can be found in the EA Portal:
+
 From Reports > Access Keys
 - accesskey =""
+
+
 From the Manage page
 - enrol  = ""
